@@ -1,0 +1,32 @@
+ul {
+    display: flex;
+    justify-content: flex-start;
+    list-style-type: none;
+}
+
+li a {
+    color: black;
+    padding-left: 55px;
+    text-decoration: none;
+}
+
+section {
+    display: flex;
+}
+
+article {
+    margin-top: 40px;
+    border-style: solid;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+
+button {
+    margin: 25px;
+}
+
+
+
+
+
